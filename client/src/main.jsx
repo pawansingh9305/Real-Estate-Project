@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-ynppwct4qgfkq8wu.us.auth0.com"
      clientId="oSkX76eWaSFRx2geTH8KgzKB9yNQ9L6a"
      authorizationParams={{
-      redirect_uri: "http://127.0.0.1:5174"
+      redirect_uri: "https://real-estate-project-woad-sigma.vercel.app/"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"
